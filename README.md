@@ -13,8 +13,11 @@
 
 ## Section Developer(13:00 - 15:20)
 
+#### ໜ້າຕາແອັບ Laos Covid-19 Tracker ໂດຍໃຊ້ Flutter
 <p margin-left: 100px>
   <img src="https://github.com/ChampaMaker/RoadToBeDev101/blob/main/appflutter.png" width="350" title="hover text">
 </p>
+
+[covid-19 api](https://pomber.github.io/covid19/timeseries.json)
 
 ## Section Discussion(15:25 - 16:30)
