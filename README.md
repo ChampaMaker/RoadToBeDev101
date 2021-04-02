@@ -7,3 +7,7 @@
 <p margin-left: 100px>
   <img src="https://github.com/ChampaMaker/RoadToBeDev101/blob/main/%E0%BA%95%E0%BA%B2%E0%BA%95%E0%BA%B0%E0%BA%A5%E0%BA%B2%E0%BA%87RoadToBeDev3%204%202021.jpg" width="350" title="hover text">
 </p>
+
+## Section Maker(9:00 - 11:50)
+## Section Developer(13:00 - 15:20)
+## Section Discussion(15:25 - 16:30)
